@@ -1,2 +1,3 @@
 #!/bin/bash
-nginx -s reload
+#ansible-playbook /etc/ansible/playbook/create-dirtory.yaml -vvv
+sudo nginx -s reload
