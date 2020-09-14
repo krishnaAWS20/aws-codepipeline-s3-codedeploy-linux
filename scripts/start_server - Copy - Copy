@@ -1,8 +1,0 @@
-#!/bin/bash
-sudo nginx -s reload
-a=`echo $#`
-if [ $a == 0 ]; then
-echo " Reloaded successfully"
-else
-echo " Unable to reload NGINX"
-fi
