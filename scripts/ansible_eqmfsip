@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/bin/ansible-playbook deploy-linux_omnesys.yaml -vvv
+ansible-playbook /etc/ansible/playbook/deploy-linux_omnesys.yaml -vvv
