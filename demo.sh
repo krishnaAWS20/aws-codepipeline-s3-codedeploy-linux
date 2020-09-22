@@ -1,3 +1,7 @@
 #/bin/bash
 
-touch /var/lib/jenkins/workspace/Git-test/hello-jenkins
+echo "Hello fucking world"
+echo "Hello fucking world"
+echo "Hello fucking world"
+echo "Hello fucking world"
+echo "Hello fucking world"
