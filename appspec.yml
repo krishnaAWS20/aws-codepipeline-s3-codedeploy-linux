@@ -1,8 +1,0 @@
-version: 0.0
-os: linux
-
-hooks:
-  BeforeInstall:
-    - location: scripts/ansible_eqmfsip
-      timeout: 300
-      runas: msf
